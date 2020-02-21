@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: aishusarangapani6995/podinfo
-      tag: stg-9ij63o4c
+      tag: stg-txe7cao8
     replicaCount: 2
     hpa:
       enabled: true
